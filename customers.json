@@ -1,18 +1,21 @@
 {
     "customers": [
         {
+            "id": 1,
             "name": "Juan Pérez",
             "document_type": "DNI",
             "document_number": "12345678",
             "address": "Av. Siempre Viva 1234"
         },
         {
+            "id": 2,
             "name": "María López",
             "document_type": "CUIT",
             "document_number": "30-87654321-9",
             "address": "Calle Falsa 456"
         },
         {
+            "id": 3,
             "name": "Carlos Gómez",
             "document_type": "DNI",
             "document_number": "87654321",
