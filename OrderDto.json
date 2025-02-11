@@ -1,0 +1,84 @@
+{
+    "orders": [
+        {
+            "id": 1001,
+            "customer_id": 501,
+            "order_date": "2025-02-10",
+            "items": [
+                {
+                    "id": 1,
+                    "product_id": 101,
+                    "quantity": 2
+                },
+                {
+                    "id": 2,
+                    "product_id": 102,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1002,
+            "customer_id": 502,
+            "order_date": "2025-02-11",
+            "items": [
+                {
+                    "id": 3,
+                    "product_id": 103,
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "id": 1003,
+            "customer_id": 503,
+            "order_date": "2025-02-12",
+            "items": [
+                {
+                    "id": 4,
+                    "product_id": 104,
+                    "quantity": 3
+                },
+                {
+                    "id": 5,
+                    "product_id": 105,
+                    "quantity": 2
+                },
+                {
+                    "id": 6,
+                    "product_id": 106,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1004,
+            "customer_id": 504,
+            "order_date": "2025-02-13",
+            "items": [
+                {
+                    "id": 7,
+                    "product_id": 107,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1005,
+            "customer_id": 505,
+            "order_date": "2025-02-14",
+            "items": [
+                {
+                    "id": 8,
+                    "product_id": 108,
+                    "quantity": 2
+                },
+                {
+                    "id": 9,
+                    "product_id": 109,
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}
