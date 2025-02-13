@@ -1,5 +1,4 @@
-{
-    "customers": [
+[
         {
             "id": 1,
             "name": "Juan Pérez",
@@ -28,4 +27,3 @@
             "address": "Av. Principal 321"
         }
     ]
-}
