@@ -1,7 +1,7 @@
 [
         {
             "id": 1001,
-            "customer_id": 501,
+            "customer_id": 1,
             "order_date": "2025-02-10",
             "items": [
                 {
@@ -18,7 +18,7 @@
         },
         {
             "id": 1002,
-            "customer_id": 502,
+            "customer_id": 2,
             "order_date": "2025-02-11",
             "items": [
                 {
@@ -30,7 +30,7 @@
         },
         {
             "id": 1003,
-            "customer_id": 503,
+            "customer_id": 3,
             "order_date": "2025-02-12",
             "items": [
                 {
@@ -52,7 +52,7 @@
         },
         {
             "id": 1004,
-            "customer_id": 504,
+            "customer_id": 1,
             "order_date": "2025-02-13",
             "items": [
                 {
@@ -64,7 +64,7 @@
         },
         {
             "id": 1005,
-            "customer_id": 505,
+            "customer_id": 2,
             "order_date": "2025-02-14",
             "items": [
                 {
