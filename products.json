@@ -1,5 +1,4 @@
-{
-    "items": [
+[
         {
             "id": 1,
             "name": "Producto 1",
@@ -29,4 +28,4 @@
             "total_price": 250.00
         }
     ]
-}
+
